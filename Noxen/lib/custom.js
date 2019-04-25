@@ -27,7 +27,7 @@ var blue = anime({
     {translateY: 0,borderRadius: '0%',background: '#825b30',},
     {translateX: 0,borderRadius: '0%',background: '#0f253d',},
   ],
-  duration: 12000,
+  duration: 10000,
   easing: 'easeOutElastic(1, .8)',
 
   
