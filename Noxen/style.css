@@ -1,0 +1,32 @@
+
+body {
+  margin: 0;
+  font-family: "Montserrat";
+    background-color: #fff;
+}
+
+.dank {
+
+    background: #0f253d;
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+    border-radius: 50%;
+
+}
+
+
+.dank2 {
+
+    background: #0f253d;
+
+    width: 700px;
+    height: 5px;
+    margin: 0 auto;
+opacity: .5;
+    border-radius: 50%;
+
+}
+.wall {
+    height: 200px;
+}
