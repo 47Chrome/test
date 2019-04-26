@@ -30,3 +30,7 @@ opacity: .5;
 .wall {
     height: 200px;
 }
+.icon {
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
